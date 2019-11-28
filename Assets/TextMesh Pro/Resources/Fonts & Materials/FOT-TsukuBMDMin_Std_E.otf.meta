@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: c42e488e2403b0947a9a484eb6ca31f3
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: FOT-TsukuBMDMin Std
+  fontNames:
+  - FOT-TsukuBMDMin Std
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 40b7df48cf52e8941bb55c5fa3b9e567, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,24 @@
+fileFormatVersion: 2
+guid: ccc2d2883881d0043a1921a4c19204ac
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: FOT-TsukuMin Pro
+  fontNames:
+  - FOT-TsukuMin Pro
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 34238c50a69919f4a94286bbe0547bd8, type: 3}
+  - {fileID: 12800000, guid: f0595ed19c12a644db48e5761b7ae930, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

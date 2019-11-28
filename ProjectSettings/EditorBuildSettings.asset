@@ -1,0 +1,50 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Levels/Menu/Menu.unity
+    guid: 043e4d7ce25b61c4d8246c04388cc249
+  - enabled: 1
+    path: Assets/Levels/Floresta/Floresta.unity
+    guid: 49b76625c45fba449acb88a2556a662c
+  - enabled: 1
+    path: Assets/Levels/Ruinas/Ruinas.unity
+    guid: 691b2b38c22ab5d4bab61c435b295f15
+  - enabled: 1
+    path: "Assets/Levels/QG/Scenes/Cutscene 1 Contextualiza\xE7\xE3o.unity"
+    guid: 9bb66b4fdcb1ca24c932a7aa82459751
+  - enabled: 1
+    path: Assets/Levels/QG/Scenes/Cutscene 2 - Luther sai da casamata.unity
+    guid: 142202aebdfe2094fb93ccd0fdc8d48b
+  - enabled: 1
+    path: Assets/Levels/QG/Scenes/Cutscene 3 - Luther e David.unity
+    guid: e35398e359ff23442b0c33e675223337
+  - enabled: 1
+    path: Assets/Levels/QG/Scenes/Cutscene 4 - Luther e David se conhecem melhor.unity
+    guid: ecaab5cf9042ef84ab5a1645cdbb8dd7
+  - enabled: 1
+    path: Assets/Levels/QG/Scenes/Cutscene 4.2 - Luther e David se conhecem melhor.unity
+    guid: 655c7aba64751674595aa6c4e423d7c8
+  - enabled: 1
+    path: Assets/Levels/QG/Scenes/Cutscene 5 - William Adams.unity
+    guid: 633e2fcd613bc1741ad11a66b42d3f79
+  - enabled: 1
+    path: Assets/Levels/QG/Scenes/Cutscene 7 - Polokov.unity
+    guid: 29904d56c37a6ad439bf6364fc17916c
+  - enabled: 1
+    path: Assets/Levels/QG/Scenes/Escolher Final.unity
+    guid: f73cb5b0daffa6c4fa64f4495ed6e7bc
+  - enabled: 1
+    path: Assets/Levels/QG/Scenes/Lettering - Acreditar em Polokov.unity
+    guid: 660f2f0dd284ac04a99c838116ea8580
+  - enabled: 1
+    path: Assets/Levels/QG/Scenes/Lettering - Matar Polokov.unity
+    guid: 506e7f725fc581747808b54b5aeb3900
+  - enabled: 1
+    path: "Assets/Levels/QG/Scenes/Cr\xE9ditos.unity"
+    guid: 069bf07f5ea3aa246a43f2292ab99b2f
+  m_configObjects: {}
